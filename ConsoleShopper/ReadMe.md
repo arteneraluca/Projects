@@ -1,0 +1,2 @@
+# Project Description
+This project implements an online store for products using a TCP server, multithreading, sockets, and text files. It was developed during my Computer Networking course as part of the curriculum. The project demonstrates the application of networking concepts such as client-server communication, multithreading for handling multiple client connections concurrently, and file handling for managing product data. It serves as a practical exercise to understand and implement networking protocols and server-client interactions.
